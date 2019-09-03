@@ -1,2 +1,0 @@
-# sb-component
-React component
