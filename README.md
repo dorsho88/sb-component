@@ -1,0 +1,2 @@
+# sb-component
+React component
